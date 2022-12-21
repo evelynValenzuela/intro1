@@ -1,0 +1,7 @@
+. Abrir la terminal y realizar los siguientes comandos:
+	a. Elegir una carpeta para crear nuestro repositorio local y situarse en ella.
+	b. Una vez dentro de la carpeta, iniciar un repositorio local de git.
+	c. Una vez creado el repositorio, definir nuestra identidad (usuario y correo).
+	d. Crear un archivo llamado “lorem.txt” y colocar un texto “random” dentro de él.
+	e. Agregar el archivo creado al stage.
+	f. Confirmar definitivamente el archivo agregado a stage.
